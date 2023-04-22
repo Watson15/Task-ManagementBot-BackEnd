@@ -1,0 +1,8 @@
+django
+djangorestframework
+requests
+urllib3
+django-nose
+coverage
+behave
+discord
